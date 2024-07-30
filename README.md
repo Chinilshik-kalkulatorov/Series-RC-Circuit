@@ -3,6 +3,7 @@
 ## **Question:** 
 
 For the series RC circuit in the figure with \( $R = 90Ω$ \) and \( $C = 55μF$ \), calculate:
+
 (a) Current \( $I$ \)
 
 (b) Voltage across resistor \( $V_R$ \) and capacitor \( $V_C$ \)
