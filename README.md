@@ -80,11 +80,12 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
    $$S = V \cdot I = 125 \, V \cdot 1.176 \, A \approx 147 \, VA$$
 
 Thus, the solutions are as follows:
-- **Current:** \( I \approx 1.176 \, A \)
-- **Voltage across resistor:** \( V_R \approx 105.84 \, V \)
-- **Voltage across capacitor:** \( V_C \approx 68.12 \, V \)
-- **Angle:** \( \theta \approx 32.15^\circ \)
-- **Power factor:** \( PF \approx 0.846 \)
-- **True power:** \( P \approx 124.45 \, W \)
-- **Reactive power:** \( Q \approx 80.11 \, VAR \)
-- **Apparent power:** \( S \approx 147 \, VA \)
+
+- **Current:** <code>I \approx 1.176 \, A</code>
+- **Voltage across resistor:** <code>V_R \approx 105.84 \, V</code>
+- **Voltage across capacitor:** <code>V_C \approx 68.12 \, V</code>
+- **Angle:** <code>\theta \approx 32.15^\circ</code>
+- **Power factor:** <code>PF \approx 0.846</code>
+- **True power:** <code>P \approx 124.45 \, W</code>
+- **Reactive power:** <code>Q \approx 80.11 \, VAR</code>
+- **Apparent power:** <code>S \approx 147 \, VA</code>
