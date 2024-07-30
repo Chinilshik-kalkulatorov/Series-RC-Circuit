@@ -1,4 +1,4 @@
-Series RC Circuit
+#Series RC Circuit
 
 ## **Question:** 
 
