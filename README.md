@@ -82,8 +82,8 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
 Thus, the solutions are as follows:
 
 - **Current:** <code>I ≈ 1.176 A</code>
-- **Voltage across resistor:** <code>V_R ≈ 105.84 V</code>
-- **Voltage across capacitor:** <code>V_C ≈ 68.12 V</code>
+- **Voltage across resistor:** <code>V<sub>R</sub>≈ 105.84 V</code>
+- **Voltage across capacitor:** <code>V<sub>С</sub> ≈ 68.12 V</code>
 - **Angle:** <code>θ ≈ 32.15°</code>
 - **Power factor:** <code>PF ≈ 0.846</code>
 - **True power:** <code>P ≈ 124.45 W</code>
