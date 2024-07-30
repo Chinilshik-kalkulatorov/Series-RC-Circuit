@@ -15,11 +15,6 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
 
 ### Solution:
 
-#### Given:
-- <code>Voltage source: \( 125V \)</code>
-- <code>Resistor: \( 90Ω \)</code>
-- <code>Capacitor: \( 55μF \)</code>
-
 ### Solution:
 
 #### Given:
@@ -76,4 +71,6 @@ Thus, the solutions are as follows:
 - Power factor \( PF \approx 0.846 \)
 - True power \( P \approx 124.45W \)
 - Reactive power \( Q \approx 80.11VAR \)
+- Apparent power \( S \approx 147VA \)
+
 - Apparent power \( S \approx 147VA \)
