@@ -1,4 +1,4 @@
-#Series RC Circuit
+# Problem 3: Series RC Circuit
 
 **Question:** 
 
@@ -9,18 +9,16 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
 (d) True power (W), reactive power (VARs), apparent power (VA)
 
 **Given:**
-- <code>Voltage source: \( 125V \)</code>
-- <code>Resistor: \( 90Ω \)</code>
-- <code>Capacitor: \( 55μF \)</code>
-
-### Solution:
+- <code>Voltage source: 125V</code>
+- <code>Resistor: 90Ω</code>
+- <code>Capacitor: 55μF</code>
 
 ### Solution:
 
 #### Given:
-- <code>Voltage source: \( 125V \)</code>
-- <code>Resistor: \( 90Ω \)</code>
-- <code>Capacitor: \( 55μF \)</code>
+- <code>Voltage source: 125V</code>
+- <code>Resistor: 90Ω</code>
+- <code>Capacitor: 55μF</code>
 
 1. **Calculate the current \( I \):**
 
@@ -61,9 +59,7 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
    $$ Q = V_C \cdot I = 68.12V \cdot 1.176A \approx 80.11VAR $$
 
    Apparent power \( S \):
-   $$
-   S = V \cdot I = 125V \cdot 1.176A \approx 147VA
-   $$
+   $$ S = V \cdot I = 125V \cdot 1.176A \approx 147VA $$
 
 Thus, the solutions are as follows:
 - Current \( I \approx 1.176A \)
@@ -73,6 +69,4 @@ Thus, the solutions are as follows:
 - Power factor \( PF \approx 0.846 \)
 - True power \( P \approx 124.45W \)
 - Reactive power \( Q \approx 80.11VAR \)
-- Apparent power \( S \approx 147VA \)
-
 - Apparent power \( S \approx 147VA \)
