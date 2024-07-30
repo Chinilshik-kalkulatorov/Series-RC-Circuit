@@ -1,4 +1,4 @@
-# Problem 3: Series RC Circuit
+Series RC Circuit
 
 ## **Question:** 
 
