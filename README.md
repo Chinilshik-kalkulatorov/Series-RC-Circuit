@@ -19,13 +19,7 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
 - <code>Voltage source: 125V</code>
 - <code>Resistor: 90Ω</code>
 - <code>Capacitor: 55μF</code>
-
-### Solution:
-
-#### Given:
-- **Voltage source:** 125V
-- **Resistor:** 90Ω
-- **Capacitor:** 55μF
+---
 
 1. **Calculate the current \( I \):**
 
