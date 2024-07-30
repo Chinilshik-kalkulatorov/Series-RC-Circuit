@@ -62,7 +62,6 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
    V_C = I \cdot X_C = 1.176A \cdot 57.87Ω \approx 68.12V
    $$
 
-
 3. **The angle theta \( \theta \) and power factor (PF) for the circuit:**
 
    Angle \( \theta \):
