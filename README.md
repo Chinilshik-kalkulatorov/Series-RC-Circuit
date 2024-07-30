@@ -61,7 +61,9 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
    $$ Q = V_C \cdot I = 68.12V \cdot 1.176A \approx 80.11VAR $$
 
    Apparent power \( S \):
-   $$ S = V \cdot I = 125V \cdot 1.176A \approx 147VA $$
+   $$
+   S = V \cdot I = 125V \cdot 1.176A \approx 147VA
+   $$
 
 Thus, the solutions are as follows:
 - Current \( I \approx 1.176A \)
