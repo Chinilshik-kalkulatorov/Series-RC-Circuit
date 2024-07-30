@@ -37,7 +37,7 @@ For the series RC circuit in the figure with \( $R = 90Ω$ \) and \( $C = 55μF$
 
    $$X_C \approx 57.87 \, \Omega$$
 
-   Total impedance \( Z \):
+   Total impedance \( $Z$ \):
 
    $$Z = \sqrt{R^2 + X_C^2} = \sqrt{90^2 + 57.87^2} \approx 106.26 \, \Omega$$
 
