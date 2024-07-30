@@ -48,19 +48,19 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
 
 2. **Voltage across resistor \( V_R \) and capacitor \( V_C \):**
 
-Voltage across resistor ( V_R ) and capacitor ( V_C ):
+   Voltage across resistor ( V_R ) and capacitor ( V_C ):
 
-Voltage across the resistor ( V_R ):
+   Voltage across the resistor ( V_R ):
 
-$$
-V_R = I \cdot R = 1.176A \cdot 90Ω \approx 105.84V
-$$
+   $$
+   V_R = I \cdot R = 1.176A \cdot 90Ω \approx 105.84V
+   $$
 
-Voltage across the capacitor ( V_C ):
+   Voltage across the capacitor ( V_C ):
 
-$$
-V_C = I \cdot X_C = 1.176A \cdot 57.87Ω \approx 68.12V
-$$
+   $$
+   V_C = I \cdot X_C = 1.176A \cdot 57.87Ω \approx 68.12V
+   $$
 
 
 3. **The angle theta \( \theta \) and power factor (PF) for the circuit:**
