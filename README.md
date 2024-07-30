@@ -1,6 +1,6 @@
 # Problem 3: Series RC Circuit
 
-**Question:** 
+## **Question:** 
 
 For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \), calculate:
 (a) Current \( I \)
