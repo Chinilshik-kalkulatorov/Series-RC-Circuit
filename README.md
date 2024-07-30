@@ -46,20 +46,30 @@ For the series RC circuit in the figure with \( R = 90Ω \) and \( C = 55μF \),
    I = \frac{V}{Z} = \frac{125V}{106.26Ω} \approx 1.176A
    $$
 
-2. **Voltage across resistor \( V_R \) and capacitor \( V_C \):**
+1. **Calculate the current \( I \):**
 
-   Voltage across resistor ( V_R ) and capacitor ( V_C ):
-
-   Voltage across the resistor ( V_R ):
+   The impedance of the capacitor \( X_C \):
 
    $$
-   V_R = I \cdot R = 1.176A \cdot 90Ω \approx 105.84V
+   X_C = \frac{1}{\omega C} = \frac{1}{2\pi f C} = \frac{1}{2\pi \cdot 50 \cdot 55 \times 10^{-6}}
    $$
 
-   Voltage across the capacitor ( V_C ):
+   Assuming a frequency \( f = 50Hz \):
 
    $$
-   V_C = I \cdot X_C = 1.176A \cdot 57.87Ω \approx 68.12V
+   X_C \approx 57.87Ω
+   $$
+
+   Total impedance \( Z \):
+
+   $$
+   Z = \sqrt{R^2 + X_C^2} = \sqrt{90^2 + 57.87^2} \approx 106.26Ω
+   $$
+
+   Current \( I \):
+
+   $$
+   I = \frac{V}{Z} = \frac{125V}{106.26Ω} \approx 1.176A
    $$
 
 3. **The angle theta \( \theta \) and power factor (PF) for the circuit:**
