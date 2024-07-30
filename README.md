@@ -1,3 +1,15 @@
+Calculate the current \( I \):
+
+The impedance of the capacitor \( X_C \): 
+$$ X_C = \frac{1}{\omega C} = \frac{1}{2\pi f C} = \frac{1}{2\pi \cdot 50 \cdot 55 \times 10^{-6}} $$
+
+Assuming a frequency \( f = 50Hz \):
+$$ X_C \approx 57.87Ω $$
+
+Total impedance \( Z \):
+$$ Z = \sqrt{R^2 + X_C^2} = \sqrt{90^2 + 57.87^2} \
+
+
 # Problem 3: Series RC Circuit
 
 **Question:** 
